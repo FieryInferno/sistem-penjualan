@@ -1,0 +1,1 @@
+<div data-active-color="primary" data-background-color="primary" class="app-sidebar">
